@@ -1,12 +1,12 @@
 public class CountVowelConsonant {    
     public static void main(String[] args) {    
-            
+         //My 1st example
         //Counter variable to store the count of vowels and consonant    
         int vCount = 0, cCount = 0;    
             
         //Declare a string    
         String str = "This is a really simple sentence";    
-            
+        //My 2nd example   
         //Converting entire string to lower case to reduce the comparisons    
         str = str.toLowerCase();    
             
