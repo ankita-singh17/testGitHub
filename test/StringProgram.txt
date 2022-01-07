@@ -1,12 +1,14 @@
 public class CountVowelConsonant {    
     public static void main(String[] args) {    
          //My 1st example
+         //Example for merge conflict
         //Counter variable to store the count of vowels and consonant    
         int vCount = 0, cCount = 0;    
             
         //Declare a string    
         String str = "This is a really simple sentence";    
         //My 2nd example   
+        //Check for merge conflict
         //Converting entire string to lower case to reduce the comparisons    
         str = str.toLowerCase();    
             
